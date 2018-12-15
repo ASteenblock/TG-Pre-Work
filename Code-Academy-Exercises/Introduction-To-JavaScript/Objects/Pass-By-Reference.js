@@ -17,4 +17,4 @@ greenEnergy(spaceship);
 
 remotelyDisable(spaceship);
 
-console.log(spaceship)
+console.log(spaceship);
